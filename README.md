@@ -1,4 +1,4 @@
 # master_thesis
-Master Thesis
+Master's Thesis document.
 
 Also available at https://lup.lub.lu.se/student-papers/search/publication/8935848
